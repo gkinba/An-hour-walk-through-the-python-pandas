@@ -1,6 +1,5 @@
 # Basic analysis of tatanic dataset   - 27th Jul 2019
 
-
 Dataset available at :  https://www.kaggle.com/c/titanic
 
 Resources: 
